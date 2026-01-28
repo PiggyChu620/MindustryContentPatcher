@@ -1,14 +1,14 @@
-package ma620;
+package cp620;
 
 import arc.util.*;
-import ma620.content.*;
+import cp620.content.*;
 import mindustry.mod.*;
 
 
-public class MA620Mod extends Mod
+public class CP620Mod extends Mod
 {
     //public static EC620NameGenerator nameGenerator;
-    public MA620Mod()
+    public CP620Mod()
     {
         /*if(Core.app.isMobile())
         {
@@ -44,21 +44,21 @@ public class MA620Mod extends Mod
     @Override
     public void init()
     {
-        Log.info("Initializing Mineable Alloys content.");
-        MA620Setting.loadUI();
-        Log.info("Mineable Alloys initialized.");
+//        Log.info("Initializing Mineable Alloys content.");
+//        MA620Setting.loadUI();
+//        Log.info("Mineable Alloys initialized.");
     }
     @Override
     public void loadContent()
     {
-        Log.info("Loading Mineable Alloys content.");
+        /*Log.info("Loading Mineable Alloys content.");
 
-        MA620Shaders.init();
-        MA620CacheLayer.init();
-        MA620Blocks.load();
-        MA620Planets.load();
-        MA620Setting.load();
+        //MA620Shaders.init();
+        //MA620CacheLayer.init();
+        TE620Blocks.load();
+        TE620TechTree.load();
+        TransferableDrills.load();
 
-        Log.info("Mineable Alloys loaded successfully.");
+        Log.info("Mineable Alloys loaded successfully.");*/
     }
 }

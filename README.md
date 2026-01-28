@@ -1,6 +1,6 @@
-# Mindustry Java Mod - Mineable Alloys 1.3.1
-A Java Mindustry mod.
-
+# Mindustry Content Patcher v1.0
+A utility mod that patches vanilla content, it has no functionality by itself.
+<!--
 All alloys/intermetallic are now mineable, currently only works on Serpulo<sup>1</sup> and editor
 
 ## Features
@@ -35,3 +35,4 @@ All alloys/intermetallic are now mineable, currently only works on Serpulo<sup>1
 **2.** By default, all ores are activated except Dormant Cyst, which is absolutely useless at the moment, but you could still activate it if you want.
 
 **[Discord Server](https://discord.gg/DvJrVBr9Em)**
+-->

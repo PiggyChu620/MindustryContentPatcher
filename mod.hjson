@@ -1,25 +1,25 @@
 #the mod name as displayed in-game
-displayName: "Mineable Alloys v1.3.1"
+displayName: "PiggyChu620 Core Patcher v1.0"
 
-repo: "PiggyChu620/MindustryMineableAlloys"
+repo: "PiggyChu620/MindustryContentPatcher"
 
 #the internal name of your mod
-name: "ma620"
+name: "cp620"
 
 #your name
 author: "PiggyChu620"
 
 #the fully qualified main class of the mod
-main: "ma620.MA620Mod"
+main: "cp620.CP620Mod"
 
 #the mod description as seen in the mod dialog
-description: "Make all alloys/intermetallic directly mineable, currently only works on Serpulo and editor"
+description: "Content patcher for PiggyChu620 mods"
 
 #the mod version
-version: 1.3.1
+version: 1.0
 
 #the minimum game build required to run this mod
-minGameVersion: 140
+minGameVersion: 154
 
 #this is a java mod
 java: true
