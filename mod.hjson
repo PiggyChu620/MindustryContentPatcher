@@ -1,10 +1,10 @@
 #the mod name as displayed in-game
-displayName: "Mindustry Content Patcher"
+displayName: "Content Patcher"
 
 repo: "PiggyChu620/MindustryContentPatcher"
 
 #the internal name of your mod
-name: "cp620"
+name: "pc620-content-patcher"
 
 #your name
 author: "PiggyChu620"
