@@ -1,0 +1,25 @@
+#the mod name as displayed in-game
+displayName: "Content Patcher v1.0"
+
+repo: "PiggyChu620/MindustryContentPatcher"
+
+#the internal name of your mod
+name: "cp620"
+
+#your name
+author: "PiggyChu620"
+
+#the fully qualified main class of the mod
+main: "cp620.CP620Mod"
+
+#the mod description as seen in the mod dialog
+description: "Content patcher for PiggyChu620 mods"
+
+#the mod version
+version: 1.0
+
+#the minimum game build required to run this mod
+minGameVersion: 154
+
+#this is a java mod
+java: true
